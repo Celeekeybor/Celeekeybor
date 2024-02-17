@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate Software Engineer
 ------------------------------
 
-I am a third year student at Maseno University pursuing BSc. Computer Technology as well a ALX Software Engineering student with unwavering passion in technology and problem solving. I'd love to venture into Machine Learning and AI my future career advances.
+I am a student at Maseno University pursuing BSc. Computer Technology as well as ALX Software Engineering student. I am interested in building cutting-edge software solutions that solve real-world problems and enhance user experiences. My passion for software engineering drives me to constantly explore new technologies and methodologies to improve my skills and deliver high-quality products. I believe in the power of collaboration and continuous learning, and I am excited about the opportunity to contribute my skills and knowledge to innovative projects.
 
 * 🌍  I'm based in Kisumu, Nairobi, Kenya
 * ✉️  You can contact me at [celestinbor02@gmail.com](mailto:celestinbor02@gmail.com )
