@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Celestine Kibor
 =======================================================================================================================================
 
-A Passionate Software Engineer
+A Software Engineer
 ------------------------------
 
-I am a student at Maseno University pursuing BSc. Computer Technology as well as ALX Software Engineering student. I am interested in building cutting-edge software solutions that solve real-world problems and enhance user experiences. My passion for software engineering drives me to constantly explore new technologies and methodologies to improve my skills and deliver high-quality products. I believe in the power of collaboration and continuous learning, and I am excited about the opportunity to contribute my skills and knowledge to innovative projects.
+A fourth-year Computer Engineering student at Maseno University passionate about software development and technology. Currently honing skills in Python, Django, PostgreSQL, and exploring IoT. Committed to continuous learning and collaboration in the tech community as I work towards becoming a well-rounded software engineer.
 
 * 🌍  I'm based in Kisumu, Nairobi, Kenya
 * ✉️  You can contact me at [celestinbor02@gmail.com](mailto:celestinbor02@gmail.com )
-* 🧠  I'm learning React and Django
+* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  I love Christ!
 
