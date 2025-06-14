@@ -3,14 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A Software Engineer
 ------------------------------
-
-A fourth-year Computer Engineering student at Maseno University passionate about software development and technology. Currently honing skills in Python, Django, PostgreSQL, and exploring IoT. Committed to continuous learning and collaboration in the tech community as I work towards becoming a well-rounded software engineer.
+Passionate about backend development with Node.js, MongoDB, and Django. Eager to build impactful tech and grow in cloud and contribute to an interesting projects you have!
 
 * 🌍  I'm based in Kisumu, Nairobi, Kenya
 * ✉️  You can contact me at [celestinbor02@gmail.com](mailto:celestinbor02@gmail.com )
-* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any interesting projects
-* ⚡  I love Christ!
 
 ### Skills
 
