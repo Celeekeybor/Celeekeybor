@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A Software Engineer
 ------------------------------
-Passionate about backend development with Node.js, MongoDB, and Django. Eager to build impactful tech and grow in cloud and contribute to an interesting projects you have!
+Passionate about backend development with Django, RESTful APIs and SQL databases. A proactive learner and a great team player ready to build impactful solutions in a product-paced environment, open to contribute to any interesting projects you have!
 
-* 🌍  I'm based in Kisumu, Nairobi, Kenya
+* 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [celestinbor02@gmail.com](mailto:celestinbor02@gmail.com )
 * 🤝  I'm open to collaborating on any interesting projects
 
